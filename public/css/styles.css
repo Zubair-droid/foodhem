@@ -1,0 +1,236 @@
+body{
+    text-align: center;
+
+}
+ /* navbar */
+.navbar{
+    padding: 20%;
+    display: block;
+    background-color:burlywood;
+
+}
+.navbar-brand{
+   margin-left:50px;
+   font-family:'Poppins', sans-serif;;
+   padding: 50px 0px;
+}
+.navbar-toggler{
+    margin-right: 50px;
+}
+
+
+.navbar-nav{
+    text-align: center;
+    margin-right: 20px;
+
+}
+.nav-item{
+    padding-right: 38px;
+    padding-left: 45px;
+    font-family: 'Poppins', sans-serif;;
+    align-content: center;
+}
+
+
+/* bg-img */
+
+
+/* heading-text */
+.heading-text{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  padding-top: 17%;
+padding-bottom: 17%;
+  color:white;
+}
+
+.intro p{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+   padding:5% 10% 0 10%;
+   color:whitesmoke;
+    font-size: 3rem;
+
+    margin-bottom: 20px;
+  }
+  .inv
+  {
+    color:burlywood;
+  }
+
+
+
+
+
+
+
+button{
+    border-radius: 7px;
+}
+
+.main-section{
+    box-sizing:content-box;
+    height:100vh;
+    width:100%;
+
+  }
+
+/* main-section */
+.main-section{
+    background: url(https://www.nepad.org/sites/default/files/styles/mega_banner_1920x600/public/events-images/iStock-619643870%20%282%29.jpg?itok=VIypVKnM);
+    background-position:center center;
+    background-size:cover;
+    opacity: 1;
+
+  }
+  .background{
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+.embedded-section{
+    padding:10%;
+    background-color: burlywood;
+
+
+
+}
+
+
+
+/* problem-section*/
+.problem-statement{
+    background-color:burlywood;
+    padding: 2% 18%;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color:whitesmoke;
+}
+
+.problem-statement h3{
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* about-section */
+.about-section{
+    text-align: center;
+    background-color:burlywood;
+
+    color:whitesmoke;
+
+
+    padding-top: 20px;
+
+}
+
+.about h3{
+    margin-top:5px ;
+    font-family: 'Montserrat', sans-serif;
+}
+.about p{
+    font-family: 'Poppins',sans-serif;
+    padding-left: 18%;
+    padding-right: 18%;
+    padding-bottom: 2%;
+
+}
+
+/* describe-section */
+.description-section{
+    background-size: cover;
+    background-position:center center;
+    background-attachment: fixed;
+}
+
+.d img{
+    width: 100%;
+    height: 100%;
+
+    padding: 50px;
+
+
+
+}
+
+.imgs{
+    border-radius: 12px;
+
+}
+
+.container-fluid{
+    overflow: hidden;
+     padding: 50px;
+}
+
+
+
+.working-section{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    background-color: burlywood;
+    padding:10%;
+    background-size: cover;
+    background-position:center center;
+    background-attachment: fixed;
+}
+
+.p{
+    padding: 2% 15%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.working-section h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* signup section */
+
+
+
+.signup{
+    align-items: center;
+    padding: 5%;
+    font-family: "Poppins",sans-serif;
+}
+
+.signup h2
+{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.signup img{
+    padding-top:70px;
+    padding-bottom: 50px;
+}
+.signup button{
+    margin:15px 30px;
+}
+
+.form-signin{
+    padding: 2% 7%;
+    font-family: 'Poppins',sans-serif;
+}
+
+.form-signin h2{
+    text-align: center;
+    padding: 5px;
+    color: gray;
+    font-family: "Montserrat",sans-serif;
+}
+.signup button{
+
+    align-items: center;
+}
+
+
+.footer{
+    color: gray;
+
+    background-color: burlywood;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}

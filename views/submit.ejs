@@ -1,0 +1,22 @@
+<%- include('partials/header') %>
+
+<div style="width: 100%;">
+  <div class="jumbotron text-center" style="background-color: burlywood;">
+    <i class="fas fa-key fa-6x"></i>
+    <h1 style = "padding: 10px;"class="display-3">Requests</h1>
+    <h4 style = "padding: 10px;"class="secret-text">Come forward to help, ask and get !</h4>
+
+    <form style = "padding: 10px;" action="/submit" method="POST">
+
+      <div class="text-center  mb-4">
+        <input type="text" style = "margin: 10px; border-radius: 7px; box-shadow:black; " class =" form-control text-center" name = "name" placeholder="Write your name">
+        <input type="text" style="margin: 10px; border-radius: 7px;box-shadow: black;" class="form-control text-center" name="contact" placeholder="Where can we reach you?">
+        <input style= "margin: 10px; border-radius: 7px; box-shadow: black;" type ="text" class="form-control text-center" name="secret" placeholder="Your needs here ">
+      </div>
+      <button type="submit" class="btn btn-dark">Submit</button>
+    </form>
+
+
+  </div>
+</div>
+<%- include('partials/footer') %>
