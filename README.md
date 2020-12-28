@@ -19,5 +19,4 @@ The food wastage in our country is a no words to say level of issue prevailing i
   *If user is donor, they can input the request as if they are to donate their excess food that is standing unconsumed for the day.
   *If the user is receiver, they can input their request of the need.
 
-
-https://github.com/Zubair-droid/project-v4/issues/1#issue-775550855
+https://user-images.githubusercontent.com/59087484/103238156-d180aa80-496f-11eb-8912-abb056e95ba5.PNG
