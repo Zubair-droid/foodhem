@@ -18,3 +18,6 @@ The food wastage in our country is a no words to say level of issue prevailing i
   *In both the use cases, the users has to sign up and categorize themselves as a donor or receiver as if they are and can create a request(post) about their concerns.
   *If user is donor, they can input the request as if they are to donate their excess food that is standing unconsumed for the day.
   *If the user is receiver, they can input their request of the need.
+
+
+https://github.com/Zubair-droid/project-v4/issues/1#issue-775550855
