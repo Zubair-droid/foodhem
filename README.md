@@ -26,8 +26,8 @@ The food wastage in our country is a no words to say level of issue prevailing i
 <img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture2.PNG" />
 <img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture3.PNG" />
 <img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture4.PNG" />
-<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture5PNG.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture.5PNG.PNG" />
 <img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture6.PNG" />
-<img scr = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture7.PNG" />
-<img scr = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture8.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture7.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture8.PNG" />
 
