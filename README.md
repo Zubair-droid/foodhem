@@ -22,10 +22,12 @@ The food wastage in our country is a no words to say level of issue prevailing i
   *If the user is receiver, they can input their request of the need.
 
 <img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture.PNG" />
-<img src = "" />
-<img src = "" />
-<img src = "" />
-<img src = "" />
-<img src = "" />
-<img src = "" />
-<img scr = "" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture1.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture2.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture3.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture4.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture5PNG.PNG" />
+<img src = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture6.PNG" />
+<img scr = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture7.PNG" />
+<img scr = "https://raw.githubusercontent.com/Zubair-droid/project-v4/main/Snaps/Capture8.PNG" />
+
